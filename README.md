@@ -9,4 +9,5 @@ I am happy to share some of the hands-on exercises I designed for the workshop. 
 
 Write your implementation inside `project/src/batcher.js` file. 
 In order to run the tests, open `project/SpecRunner.html` in you favorite browser. To rerun the tests - refresh the page. 
+
 You can find the spec for this service in the PDF file inside the repo.
